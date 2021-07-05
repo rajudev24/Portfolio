@@ -12,6 +12,7 @@ span{
 }
 section{
     display: flex;
+    margin-bottom: 40px;
 }
 
 .helf-width{
@@ -41,4 +42,9 @@ section{
 #header{
     background-image: url(./img/top-banner.png);
     background-repeat: no-repeat;
+}
+#about{
+    background-image: url(./img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
